@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Light", serif;
+}
+
+body {
+    background-color: #FDF8F2;
+}
+
+.title {
+    text-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: large;
+    margin-top: 100px;
+}
+
+.p {
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+#hr1 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 550px;
+    margin-bottom: 50px;
+    margin-top: 150px;
+    margin-right: 500px;
+    padding-left: 300px;
+    padding-bottom: 200px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+#hr2 {
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 1000px;
+    margin-bottom: 0px;
+    margin-top: 150px;
+    margin-right: 500px;
+    padding-left: 300px;
+    padding-bottom: 200px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+.img1 {
+    position: absolute;
+    align-items: center;
+    padding-left: 560px;
+    padding-top: 160px;
+}
+
+.img1 img {
+    width: 300px;
+}
+
+.img2 {
+    position: absolute;
+    align-items: center;
+    padding-left: 1030px;
+    padding-top: 180px;
+}
+
+.img2 img {
+    width: 250px;
+}
+
+.a1 {
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 400px;
+}
+
+.a2 {
+    position: absolute;
+    margin-left: 1130px;
+    margin-top: 400px;
+}
+
+.flooter {
+    background-color: grey;
+    color: white;
+    margin-top: 600px;
+    text-align: right;
+    padding-right: 40px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
